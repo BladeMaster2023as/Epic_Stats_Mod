@@ -1,0 +1,28 @@
+{
+  "laugh": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "epic_stats:survivor1",
+        "stream": false
+      }
+    ]
+  },
+  "paper": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "epic_stats:sfx-paperflip3",
+        "stream": false
+      },
+      {
+        "name": "epic_stats:book1",
+        "stream": false
+      },
+      {
+        "name": "epic_stats:book2",
+        "stream": false
+      }
+    ]
+  }
+}
