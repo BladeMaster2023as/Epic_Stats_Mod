@@ -1,3 +1,5 @@
+my discord acount is blade_master_x
+
 Epic Stats Mod
 
  
